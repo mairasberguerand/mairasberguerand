@@ -1,7 +1,6 @@
 # Olá, eu sou a Maíra! 👋
 
 🎓 Estudante de Ciências da Computação  
-💻 Aprendendo desenvolvimento **Fullstack**  
 🚀 Em constante evolução!
 
 ---
@@ -16,7 +15,7 @@
 
 ### 📊 Minhas estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mairasberguerand&show_icons=true&theme=tokyonight)
 
 ---
 
