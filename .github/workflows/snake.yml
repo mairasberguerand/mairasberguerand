@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: mairasberguerand
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=%23B8860B
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push github-contribution-grid-snake.svg to the output branch
