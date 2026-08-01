@@ -63,17 +63,10 @@ Pra adicionar uma nova linha na tabela, copia o padrão acima:
   <a href="www.linkedin.com/in/maíra-sousa-berguerand-6437a22a6">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mairaberguerand@gmail.com">
+  <a href="mailto:mariaberguera@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/mairasberguerand/mairasberguerand/raw/main/assets/curriculo-maira.pdf">
+  <a href="https://github.com/mairasberguerand/mairasberguerand/raw/main/assets/Curriculo_Maira_Berguerand_2026.pdf">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-4A4A4A?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 </p>
-
-<!--
-Como fazer o badge de Currículo funcionar:
-1. Crie uma pasta "assets" na raiz do repositório mairasberguerand/mairasberguerand
-2. Faça upload do seu PDF de currículo nela, com esse nome exato: curriculo-maira.pdf
-3. Pronto, o link acima já vai apontar pra ele automaticamente
--->
