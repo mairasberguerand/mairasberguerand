@@ -21,7 +21,7 @@
 ##  stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-vercel-puce.vercel.app/api?username=mairasberguerand&show_icons=true&hide_border=true&bg_color=00000000&title_color=B8860B&icon_color=F0C674&text_color=FFFFFF" />
+  <img height="180" src="https://github-readme-stats-vercel-puce.vercel.app/api?username=mairasberguerand&show_icons=true&hide_border=true&bg_color=00000000&title_color=B8860B&icon_color=F0C674&text_color=FFFFFF&cache_bust=1" />
   </div>
 <br>
 </td></tr>
